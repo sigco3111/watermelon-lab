@@ -1,0 +1,7 @@
+# 원본 melon-lab/src 빌드 헬퍼는 한글화 게임에 불필요 (Pages 단일 HTML 배포)
+melon-lab/src/server.mjs
+melon-lab/src/build.mjs
+melon-lab/src/package.json
+melon-lab/src/.gitignore
+melon-lab/src/public/
+melon-lab/瓜体实验室.html
