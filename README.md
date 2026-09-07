@@ -1,7 +1,7 @@
 # 🍉 수박 연구소 · 반유체 수박 게임
 
-> GPT-6 Astra · One Shot 게임 테스트의 **멜론 게임(瓜体实验室) 한글화 버전**입니다.
-> 원본 저장소 [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)에서 **수박 게임 한 편만 클론**해 왔습니다.
+> 🍉 수박 게임(瓜体实验室 · 멜론 연구소)의 **한글화 포크**입니다.
+> 원본은 [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)의 GPT-6 Astra · One Shot 게임 테스트 산출물 중 한 편이며, 본 저장소는 그중 수박 게임 한 편만 가져와 한국어로 완전히 번역했습니다.
 
 라이브 데모 : https://sigco3111.github.io/watermelon-lab/
 
