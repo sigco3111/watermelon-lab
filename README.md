@@ -3,9 +3,9 @@
 > GPT-6 Astra · One Shot 게임 테스트의 **멜론 게임(瓜体实验室) 한글화 버전**입니다.
 > 원본 저장소 [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)에서 **수박 게임 한 편만 클론**해 왔습니다.
 
-라이브 데모 : https://sigco3111.github.io/gpt6-astra-one-shot-games/
+라이브 데모 : https://sigco3111.github.io/watermelon-lab/
 
-[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/gpt6-astra-one-shot-games/)
+[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/watermelon-lab/)
 
 ---
 
@@ -69,13 +69,13 @@
 
 ### 온라인 (권장)
 
-라이브 데모 : https://sigco3111.github.io/gpt6-astra-one-shot-games/
+라이브 데모 : https://sigco3111.github.io/watermelon-lab/
 
 ### 로컬에서 직접 열기
 
 ```bash
-git clone https://github.com/sigco3111/gpt6-astra-one-shot-games.git
-cd gpt6-astra-one-shot-games
+git clone https://github.com/sigco3111/watermelon-lab.git
+cd watermelon-lab
 open index.html        # macOS
 xdg-open index.html    # Linux
 start index.html       # Windows
@@ -113,10 +113,9 @@ start index.html       # Windows
 ## 📂 파일 구조
 
 ```
-gpt6-astra-one-shot-games/
+watermelon-lab/
 ├── index.html              # ⭐ 한글화된 게임 (GitHub Pages 진입점)
-├── melon-lab/              # 원본 보존 (참고용)
-│   └── 瓜体实验室.html     # 원본 중국어 빌드 결과물
+├── melon-original.html     # 원본 중국어 빌드 결과물 (참고용 보존)
 └── README.md
 ```
 
